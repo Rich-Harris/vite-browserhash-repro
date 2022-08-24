@@ -1,0 +1,9 @@
+{
+	"type": "module",
+	"dependencies": {
+		"vite": "^3.0.9"
+	},
+	"scripts": {
+		"dev": "node setup.js && vite dev"
+	}
+}
